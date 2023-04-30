@@ -19,6 +19,6 @@ the scripts will help you get as many cases as your input and save them in a com
 if you feel something is missing, please feel free to comment and I will take care of them when I have time;
 
 Otherwise, if you want to reward me a coffee, you can donate here:
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/supernovakevin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Thank you for reading!
