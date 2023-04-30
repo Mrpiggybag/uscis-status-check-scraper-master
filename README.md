@@ -14,3 +14,11 @@ the scripts will help you get as many cases as your input and save them in a com
 ![Example terminal 2023-04-30](https://user-images.githubusercontent.com/40650028/235355078-b0d55f94-f6e7-4caf-b4cc-19e43060adc7.png)
 
 ![Example output 2023-04-30](https://user-images.githubusercontent.com/40650028/235355097-54e035dd-b824-4388-a2b0-a87d87b9eb1a.png)
+
+## Others?
+if you feel something is missing, please feel free to comment and I will take care of them when I have time;
+
+Otherwise, if you want to reward me a coffee, you can donate here:
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+Thank you for reading!
