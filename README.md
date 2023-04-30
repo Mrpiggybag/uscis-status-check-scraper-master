@@ -7,7 +7,10 @@ to check uscis case everytime manually online is a no-go for me; so I've develop
 ## How to use it?
 There are two steps to use it:
 1. After download, create a text file(.txt) under the same folder with your case number as contents and your name as the file name (or multiple txt files including your spouse)
-2. run the "scraper_uscis_status.exe" execution file (remember it needs to be put under the same folder with your input text file)
+2. run the "scraper_uscis_status.exe" execution file (remember it needs to be put under the same folder with your input text file) even if you don't have python installed on your computer; otherwise, you can run scraper_uscis_status.py code with python to get the same results
+
+## Security?
+The code is absolutely not taking any of your privacy, all it requires is case ids in text file and it pulls case status for you
 
 ## What to expect?
 the scripts will help you get as many cases as your input and save them in a combined csv/excel file under the same folder with names, form, case id, case status and case details as below
