@@ -1,0 +1,17 @@
+altgraph==0.17.3
+beautifulsoup4==4.12.2
+bs4==0.0.1
+certifi==2022.12.7
+charset-normalizer==3.1.0
+DateTime==5.1
+idna==3.4
+installer==0.7.0
+pefile==2023.2.7
+pyinstaller==5.10.1
+pyinstaller-hooks-contrib==2023.2
+pytz==2023.3
+pywin32-ctypes==0.2.0
+requests==2.29.0
+soupsieve==2.4.1
+urllib3==1.26.15
+zope.interface==6.0
